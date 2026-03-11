@@ -5,4 +5,5 @@ asciidoc:
     source-highlighter: rouge
     pdf-theme: ./theme/cjk-theme.yml
     toc: ''
+    sectnums: false
 
