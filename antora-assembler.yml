@@ -6,4 +6,5 @@ asciidoc:
     pdf-theme: ./theme/cjk-theme.yml
     toc: ''
     sectnums: false
+    title-page-break-after: always
 
